@@ -1,0 +1,3 @@
+void hlt() {
+    asm("hlt");
+}
