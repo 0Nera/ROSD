@@ -1,0 +1,2 @@
+/home/michael/ros/CMakeFiles/edit_cache.dir
+/home/michael/ros/CMakeFiles/rebuild_cache.dir
